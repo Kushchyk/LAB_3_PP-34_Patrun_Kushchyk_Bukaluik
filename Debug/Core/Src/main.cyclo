@@ -1,0 +1,14 @@
+../Core/Src/main.c:88:5:__io_putchar	1
+../Core/Src/main.c:100:5:main	1
+../Core/Src/main.c:188:6:SystemClock_Config	3
+../Core/Src/main.c:234:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:267:13:MX_GPIO_Init	1
+../Core/Src/main.c:304:6:HAL_GPIO_EXTI_Callback	3
+../Core/Src/main.c:319:6:PrintFrequencyInfo	1
+../Core/Src/main.c:323:6:PrintLedInfo	1
+../Core/Src/main.c:327:6:PrintErrorInfo	1
+../Core/Src/main.c:331:6:ParseCommand	7
+../Core/Src/main.c:370:6:StartReadFromUART	4
+../Core/Src/main.c:416:6:StartGlowLed	3
+../Core/Src/main.c:454:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:471:6:Error_Handler	1
