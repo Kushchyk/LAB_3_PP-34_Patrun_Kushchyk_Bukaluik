@@ -1,0 +1,14 @@
+../Core/Src/main.c:88:5:__io_putchar	16	static
+../Core/Src/main.c:100:5:main	8	static
+../Core/Src/main.c:188:6:SystemClock_Config	88	static
+../Core/Src/main.c:234:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:267:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:304:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:319:6:PrintFrequencyInfo	8	static
+../Core/Src/main.c:323:6:PrintLedInfo	8	static
+../Core/Src/main.c:327:6:PrintErrorInfo	16	static
+../Core/Src/main.c:331:6:ParseCommand	24	static
+../Core/Src/main.c:370:6:StartReadFromUART	128	static
+../Core/Src/main.c:416:6:StartGlowLed	16	static
+../Core/Src/main.c:454:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:471:6:Error_Handler	4	static,ignoring_inline_asm
